@@ -1267,6 +1267,13 @@ Specialized skills for specific industries and use cases.
   - Works with Claude, ChatGPT, OpenClaw, and Hermes Agent through the open Agent Skills format
   - Free tier, no card required; MIT licensed
 
+- [sergebulaev/car-rental-skills](https://github.com/sergebulaev/car-rental-skills) ![Stars](https://img.shields.io/github/stars/sergebulaev/car-rental-skills?style=flat-square)
+  - 8 skills for exotic, luxury and Turo car rental operators: daily rate pricing, competitor scans, business plans, rental agreements, damage inspections, listings, social posts and review replies
+  - Pricing and market skills compare against live published daily rates for 3,000+ cars at 160+ independent US rental companies, via a free read-only MCP server (no key)
+  - Shows every draft for approval first; agreements come with a lawyer checklist instead of legal claims
+  - Works in Claude Code, Claude Desktop, Codex and any SKILL.md agent; MIT licensed
+  - Install: `npx skills add sergebulaev/car-rental-skills`
+
 ## Productivity Tools
 
 Utilities and tools to enhance your Claude workflow.
